@@ -1,5 +1,12 @@
 # 💫 About Me:
-👋 Hi, I’m @AaronFrancesOliva  <br><br>👀 I’m interested in web development, software architecture, and creating efficient and scalable solutions.  <br>🌱 I’m currently learning advanced Laravel 11 features, Angular best practices, and cloud-based deployments.  <br>💞️ I’m looking to collaborate on open-source projects, web apps, and innovative tech solutions.  <br>📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aarón-francés-oliva-55b3271b7) | [Email](aaron.oficial7601@agmail.com)  <br>😄 Pronouns: He/Him  <br>⚡ Fun fact: I love combining logic and creativity to transform ideas into real, useful applications.  
+👋 Hi, I’m @AaronFrancesOliva  <br><br>
+👀 I’m interested in web development, software architecture, and creating efficient and scalable solutions.  <br>
+🌱 I’m currently learning advanced Laravel 11 features, Angular best practices, and cloud-based deployments.  <br>
+💼 I’m currently working as a **Java Developer**, focusing on building robust backend solutions.  <br>
+💞️ I’m looking to collaborate on open-source projects, web apps, and innovative tech solutions.  <br>
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aarón-francés-oliva-55b3271b7) | [Email](aaron.oficial7601@agmail.com)  <br>
+😄 Pronouns: He/Him  <br>
+⚡ Fun fact: I love combining logic and creativity to transform ideas into real, useful applications.  
 
 
 ## 🌐 Socials:
